@@ -1,0 +1,22 @@
+# Simulation & Build Artifacts
+build/
+obj_dir/
+
+# Waveforms & traces
+*.vcd
+*.lxt
+*.lxt2
+*.vpd
+*.fst
+
+# Compiled binaries and intermediate files
+*.vvp
+*.o
+*.a
+*.d
+
+# OS & Editor artifacts
+*:Zone.Identifier
+.DS_Store
+*.swp
+*~
